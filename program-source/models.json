@@ -1,0 +1,10 @@
+{
+    "models": [
+        {
+            "id": "qwen_7b",
+            "display_name": "Qwen 2.5 7B",
+            "url": "https://huggingface.co/bartowski/Qwen2.5-7B-Instruct-GGUF/resolve/main/Qwen2.5-7B-Instruct-Q4_K_M.gguf",
+            "filename": "qwen2.5-7b-instruct-q4_k_m.gguf"
+        }
+    ]
+}
